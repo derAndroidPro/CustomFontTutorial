@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Custom Font Tutorial</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtheadline">Custom Font</string>
+    <string name="txtdescription">In diesem Tutorial lernt ihr, wie ihr eine eigene Schriftart in die App einbinden könnt. Dazu benötigt ihr nur die entsprechende .ttf Datei der Schriftart.</string>
+</resources>
